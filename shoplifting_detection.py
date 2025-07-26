@@ -12,7 +12,7 @@ from config.parameters import quit_key,frame_name
 
 input_path="res/inout1.mp4"
 input_path="res/shop.mp4"
-output_path="res/shop-output.mp4"
+output_path="output/shop.mp4"
 
 #model
 mymodel=YOLO("./configs/shoplifting_wights.pt")
