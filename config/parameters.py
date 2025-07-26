@@ -3,7 +3,7 @@
 
 
 
-WIDTH=500
+WIDTH=1024
 start_status="Loading..."
 shoplifting_status="Shoplifting"
 not_shoplifting_status="Not Shoplifting"
